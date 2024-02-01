@@ -1,5 +1,5 @@
 # Enumeration-of-system-info
-Enumeration of system info
+Let's check the command to enumerate a system.
 # What's system info enumeration?
 System info enumeration is a process of gathering information about a system, such as its operating system, network infrastructure, usernames, machine names, and other details. It can be used for ethical hacking, penetration testing, or system administration. System info enumeration can be performed using various tools and techniques, such as command-line utilities, network scanners, or web crawlers.
 
