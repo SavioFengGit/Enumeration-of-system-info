@@ -66,9 +66,10 @@ System info enumeration is a process of gathering information about a system, su
 	• search -d /usr/bin -f *flag* -r (-d cerca dalla directory che indichi, -f indichi cosa cerchi e metti -r se vuoi cercare nelle sue sottocartelle)
 	• upload /usr/share/webshells/php/php-backdoor.php (carica una webshell nel target)
 
-For more information about the enumeration, I direct you to my nmap github repository.<br> 
+For information about the enumeration with nmap, I direct you to my nmap github repository.<br> 
 **https://github.com/SavioFengGit/Nmap-Active-Information-Gathering** <br>
-
+and for information about how to do enumeration of the system with metasploit: <br>
+**https://github.com/SavioFengGit/The-Metasploit-Framework-MSF** (Post exploitation section) <br> 
 
 #Author
 <b>Xiao Li Savio Feng</b>
