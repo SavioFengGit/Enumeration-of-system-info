@@ -26,7 +26,7 @@ System info enumeration is a process of gathering information about a system, su
 	• Get-ChildItem -Path C:\Users -Recurse -filter *flag*.txt (cerca il flag nel punto che dici tu)
 	• cd /
 	• dir
-  • type flag.txt
+        • type flag.txt
 
 ## Usefull command bash Linux
 	• hostname (hostname del sistema)
@@ -45,7 +45,7 @@ System info enumeration is a process of gathering information about a system, su
 	• cat /etc/networks (enumera la lista delle network configurate e i loro subnet)
 	• cat /etc/hosts (enumera la lista dei domini mappati localmente e i rispettivi ip)
 	• cat /etc/resolv.conf (trova l'ip del default DNS server name)
-  • cat /etc/cron* (enumera la lista dei cron job)
+        • cat /etc/cron* (enumera la lista dei cron job)
 
 ## Usefull command meterpreter Windows and Linux
 	• sysinfo (informazioni di sistema)
